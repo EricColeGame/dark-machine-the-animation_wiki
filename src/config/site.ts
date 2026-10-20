@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@noitaminaofficial",
     twitter: "https://x.com/dark__machine",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "pt-BR"],
   defaultLocale: "en",
 };
