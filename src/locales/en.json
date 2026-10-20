@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with Episode 1, meet Kairi, and learn how Golden Valley, DARK MACHINE, and the Senki title connect before the story accelerates."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Episode Guide",
+          "description": "Follow the weekly broadcast order, episode recaps, and release tracking for the Fall 2026 anime without missing a story beat."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Release & Streaming",
+          "description": "Check the October 13, 2026 premiere, Crunchyroll simulcast details, and subtitle options before your first watch."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Dark Machine The Animation."
+          "title": "Characters & Cast",
+          "description": "Meet Kairi, Rudora, Ajima, and the STELLATUS trio, with voice actors and story roles gathered in one quick reference."
         }
       ]
     },
@@ -62,237 +62,285 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Episode Guide",
+        "Story Explained",
+        "Characters & Cast",
+        "Where to Watch"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Guide",
+          "title": "Episode 1 Recap",
+          "description": "Kairi leaves his island, meets Rudora, and begins his search for Senki in the series premiere.",
+          "href": "/guide/dark-machine-the-animation-episode-1"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Story",
+          "title": "Story Explained",
+          "description": "Understand Golden Valley, the Senki title, Ajima's control, and Kairi's climb through DARK MACHINE.",
+          "href": "/guide/dark-machine-the-animation-story-explained"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Characters",
+          "title": "Character List",
+          "description": "Track the central players, their story roles, and the characters surrounding Kairi and Rudora.",
+          "href": "/characters/dark-machine-the-animation-character-list"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Cast",
+          "title": "Cast & Voice Actors",
+          "description": "Meet the STELLATUS trio and the voice actors behind Aluk, Denebola, and Spica.",
+          "href": "/characters/dark-machine-the-animation-cast"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Trailer",
+          "title": "Official Trailer",
+          "description": "Watch the trailer built around Galaxy Mode and the October 13, 2026 premiere.",
+          "href": "/trailers/dark-machine-the-animation-official-trailer"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Music",
+          "title": "Opening Theme",
+          "description": "Explore BUCK-TICK's Sonzai Riyuu Kai and its role in the series.",
+          "href": "/music/dark-machine-the-animation-buck-tick"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Dark Machine The Animation?",
       "paragraphs": [
-        "Dark Machine The Animation is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Dark Machine The Animation is a 2026 original sci-fi esports anime from Project Carbuncle, animated by Production +h. and directed by Kazumi Terada. It follows Kairi, who arrives in Golden Valley carrying his grandfather's final words: Find Senki.",
+        "In this world, the competitive game DARK MACHINE has reshaped Japan's economy. Ajima, the seventh Senki, controls Golden Valley through the game, while Kairi becomes a player after meeting Rudora and begins challenging the hierarchy. The series airs on Fuji TV in Japan and streams internationally on Crunchyroll."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Release Year",
+          "value": "2026"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Episode Length",
+          "value": "22 min"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Studio",
+          "value": "Production +h."
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Director",
+          "value": "Kazumi Terada"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Original Audio",
+          "value": "Japanese"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Streaming",
+          "value": "Crunchyroll"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore Story & Character Guides"
     },
     "explore": {
       "title": "Explore Dark Machine The Animation Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Browse focused guides to the anime's characters, episode schedule, story world, production, trailers, and music.",
       "modules": [
         {
           "order": 1,
-          "name": "Dark Machine The Animation Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/dark-machine-the-animation-codes",
-          "displayType": "code-box",
+          "name": "Dark Machine The Animation Characters",
+          "description": "Meet the central players of Dark Machine The Animation, including Kairi, Rudora, Ajima, and the STELLATUS trio, and see how each fits into the battle for Golden Valley.",
+          "href": "/characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Kairi",
+              "detail": "Kairi enters Golden Valley carrying his grandfather's final words: Find Senki."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Rudora",
+              "detail": "Rudora is pursued by Ajima's subordinate and becomes Kairi's link to DARK MACHINE."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Ajima",
+              "detail": "Ajima holds the title of seventh Senki and controls Golden Valley through the game."
+            },
+            {
+              "label": "STELLATUS",
+              "detail": "STELLATUS is a part-time idol group and esports team with three named cast members."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/dark-machine-the-animation-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Dark Machine The Animation Episodes",
+          "description": "Track the weekly broadcast, episode recaps, and story developments as Kairi's climb through Golden Valley unfolds.",
+          "href": "/guide/dark-machine-the-animation-episode-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Episode 1 premiered on October 13, 2026 and introduces Kairi, Rudora, and the search for Senki."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Episodes run about 22 minutes and arrive weekly through the Fall 2026 broadcast."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Watch in broadcast order; no prequels or side stories complicate the viewing order."
+            },
+            {
+              "label": "4",
+              "detail": "Use the episode guide to follow recaps and new story details as each installment arrives."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/dark-machine-the-animation-tier-list",
-          "displayType": "tier-grid",
+          "name": "Dark Machine The Animation Release Date",
+          "description": "Confirm the premiere date, broadcast season, studio, director, and streaming availability for the 2026 anime.",
+          "href": "/guide/dark-machine-the-animation-release-date",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Oct 13",
+              "detail": "The Japanese television premiere date in the Fall 2026 season."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Fuji TV",
+              "detail": "The series airs on Fuji TV and affiliated stations in Japan."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Crunchyroll",
+              "detail": "The international streaming home for the subtitled simulcast."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "22 min",
+              "detail": "The standard runtime for each weekly episode."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/dark-machine-the-animation-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Dark Machine The Animation Story Guide",
+          "description": "Understand the premise, Golden Valley, the Senki title, and the conflict between Kairi and Ajima's established order.",
+          "href": "/guide/dark-machine-the-animation-story-explained",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Kairi",
+              "detail": "Kairi follows his grandfather's dying words, Find Senki, into Golden Valley."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Rudora",
+              "detail": "Rudora is hunted by Ajima's subordinate and draws Kairi into DARK MACHINE."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Senki",
+              "detail": "Senki is the title of the strongest player, currently held by Ajima."
+            },
+            {
+              "label": "Valley",
+              "detail": "Golden Valley is an exclusive economic zone shaped by DARK MACHINE."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/dark-machine-the-animation-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Dark Machine The Animation Cast and Staff",
+          "description": "Meet the confirmed STELLATUS voice actors and the director, writers, character designer, and composer behind the anime.",
+          "href": "/production/dark-machine-the-animation-production-team",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Director",
+              "detail": "Kazumi Terada directs the series at Production +h."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Script",
+              "detail": "Team Carbuncle handles series composition."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Design",
+              "detail": "Ko Yoshinari leads main character designs."
+            },
+            {
+              "label": "Music",
+              "detail": "SUGIZO composes the anime score."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/dark-machine-the-animation-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Dark Machine The Animation Trailers",
+          "description": "Follow the official promotional videos, teaser footage, and music previews released ahead of the Fall 2026 premiere.",
+          "href": "/trailers",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Official",
+              "detail": "The official trailer previews Galaxy Mode and the Fall 2026 premiere."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Teaser",
+              "detail": "The teaser PV introduces Golden Valley, DARK MACHINE, and Kairi's mission."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "2nd PV",
+              "detail": "The second promo adds character footage and the October 13 premiere date."
+            },
+            {
+              "label": "3rd PV",
+              "detail": "The third promo highlights the ending theme and new story details."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dark Machine The Animation World and Keywords",
+          "description": "Learn the story terms that define the series, from the DARK MACHINE esport and Golden Valley to the Senki title and STELLATUS.",
+          "href": "/mechanics/dark-machine-the-animation-game-world",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "DARK MACHINE is the esport that reshaped Japan's economy."
+            },
+            {
+              "label": "A",
+              "detail": "Golden Valley is an exclusive economic zone controlled through the game."
+            },
+            {
+              "label": "B",
+              "detail": "Senki is the title held by the strongest player; Ajima is the seventh."
+            },
+            {
+              "label": "C",
+              "detail": "STELLATUS is a part-time idol group and part-time esports team."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dark Machine The Animation Music",
+          "description": "Explore the opening theme, ending theme, composer, and music releases tied to the 2026 anime.",
+          "href": "/music",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Opening",
+              "detail": "BUCK-TICK performs Sonzai Riyuu Kai, the series opening theme."
+            },
+            {
+              "label": "Ending",
+              "detail": "Sandaime J Soul Brothers performs Galaxy Mode, the ending theme."
+            },
+            {
+              "label": "Score",
+              "detail": "SUGIZO composes the anime score."
+            },
+            {
+              "label": "Digital",
+              "detail": "The TV edit of Sonzai Riyuu Kai arrived digitally on October 14, 2026."
             }
           ]
         }
@@ -303,24 +351,28 @@
       "description": "Quick answers to the most common questions about Dark Machine The Animation.",
       "items": [
         {
-          "question": "What is Dark Machine The Animation?",
-          "answer": "Dark Machine The Animation is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Dark Machine The Animation about?",
+          "answer": "Dark Machine The Animation follows Kairi as he enters Golden Valley with his grandfather's final words, Find Senki. After meeting Rudora, he becomes a DARK MACHINE player and challenges the hierarchy ruled by Ajima, the seventh Senki."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When did Dark Machine The Animation premiere?",
+          "answer": "Dark Machine The Animation premiered on October 13, 2026, as part of the Fall 2026 anime season."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where can I watch Dark Machine The Animation?",
+          "answer": "Dark Machine The Animation streams on Crunchyroll with Japanese audio and subtitles, while the series airs on Fuji TV in Japan."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Who are the main characters in Dark Machine The Animation?",
+          "answer": "Dark Machine The Animation centers on Kairi, Rudora, and Ajima, with Aluk, Denebola, and Spica forming the STELLATUS idol-esports trio."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Who performs the theme songs for Dark Machine The Animation?",
+          "answer": "BUCK-TICK performs the opening theme Sonzai Riyuu Kai for Dark Machine The Animation, while Sandaime J Soul Brothers performs the ending theme Galaxy Mode."
+        },
+        {
+          "question": "How long is each Dark Machine The Animation episode?",
+          "answer": "Each episode of Dark Machine The Animation runs about 22 minutes and the series airs weekly."
         }
       ]
     },
