@@ -6,7 +6,17 @@
     "description": "Fan-made Dark Machine The Animation wiki covering the story, characters, mecha, cast, episodes, trailers, and official updates.",
     "legalNotice": "Independent fan wiki. Not affiliated with the official anime production."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "trailers": "Trailers",
+    "characters": "Characters",
+    "production": "Production",
+    "mechanics": "Mechanics",
+    "community": "Community",
+    "music": "Music",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Dark Machine The Animation Wiki — Characters, Episodes & Story",
@@ -383,12 +393,40 @@
       "secondary": "Visit Official Anime Site"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Dark Machine The Animation Guide",
+    "overviewDescription": "Follow Dark Machine The Animation from its October 13, 2026 premiere through episode guides, story explainers, streaming details, and the manga adaptation."
+  },
+  "trailers": {
+    "overviewTitle": "Dark Machine The Animation Trailers",
+    "overviewDescription": "Watch and read about every Dark Machine The Animation trailer, from the teaser PV and official trailer to the second and third previews."
+  },
+  "characters": {
+    "overviewTitle": "Dark Machine The Animation Characters",
+    "overviewDescription": "Meet the Dark Machine The Animation cast, including Shin, Rudra, STELLATUS, their voice actors, and the designs behind the series roster."
+  },
+  "production": {
+    "overviewTitle": "Dark Machine The Animation Production",
+    "overviewDescription": "Explore the Dark Machine The Animation studio, director, staff, production team, Fuji TV broadcast, and the project's 2026 anime rollout."
+  },
+  "mechanics": {
+    "overviewTitle": "Dark Machine The Animation Mechanics",
+    "overviewDescription": "Understand the Dark Machine The Animation game world, mecha battles, esports setting, and how the anime connects to the Dark Machine game."
+  },
+  "community": {
+    "overviewTitle": "Dark Machine The Animation Community",
+    "overviewDescription": "Read Dark Machine The Animation reviews, first impressions, episode 1 reactions, Reddit discussion, and fan conversation around the series."
+  },
+  "music": {
+    "overviewTitle": "Dark Machine The Animation Music",
+    "overviewDescription": "Discover the Dark Machine The Animation opening, ending, and soundtrack details, including BUCK-TICK, Reason for Being Kai, and Galaxy Mode."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "startHere": "Start Here",
+    "startHereDescription": "Begin with the premiere date, story primer, and character guide.",
+    "browseGuides": "Browse guides",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -416,7 +454,7 @@
     "beginnerGuide": "Story & Character Guides",
     "raceGuides": "Character Guides",
     "bossGuides": "Mecha & World",
-    "buildGuide": "Episode Guides",
+    "buildGuide": "Trailers & Songs",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
