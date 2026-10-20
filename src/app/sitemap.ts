@@ -1,18 +1,28 @@
 import type { MetadataRoute } from "next";
 import { getAllContentPaths } from "@/lib/content";
 import { routing } from "@/i18n/routing";
+import { CONTENT_TYPES } from "@/config/navigation";
 
 export const dynamic = "force-static";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://vvultimatum.sbs";
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://dark-machine-the-animation.wiki";
 
-  // Static paths that always exist
-  const staticPaths = ["/", "/races", "/bosses", "/codes", "/guide", "/tier-list", "/maps", "/skills", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
+  // Static paths that always exist, including every configured content listing.
+  const staticPaths = [
+    "/",
+    ...CONTENT_TYPES.map((contentType) => `/${contentType}`),
+    "/privacy-policy",
+    "/terms-of-service",
+    "/copyright",
+    "/about",
+  ];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
-  const dynamicPaths = contentPaths.map((item) => `/${[item.contentType, ...item.slug].join("/")}`);
+  const dynamicPaths = contentPaths
+    .filter((item) => CONTENT_TYPES.includes(item.contentType as (typeof CONTENT_TYPES)[number]))
+    .map((item) => `/${[item.contentType, ...item.slug].join("/")}`);
 
   const paths = [...staticPaths, ...dynamicPaths];
 

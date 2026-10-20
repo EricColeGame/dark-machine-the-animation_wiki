@@ -7,6 +7,7 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  studioUrl?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -25,11 +26,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Story, Characters, Mecha & Episode Guides",
   description: "Fan-made Dark Machine The Animation wiki covering the story, characters, mecha, cast, episodes, trailers, and official updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://dark-machine-the-animation.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://dark-machine-the-animation.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@dark-machine-the-animation.wiki",
   gameUrl: "https://www.fujitv.co.jp/darkmachine_anime/",
+  studioUrl: "https://plsh.co.jp/works/dark-machine-the-animation/",
   heroVideoId: "Tvvs_SlUYgA", // Official DARK MACHINE THE ANIMATION 3rd PV
   social: {
-    youtube: "https://www.youtube.com/watch?v=Tvvs_SlUYgA",
+    youtube: "https://www.youtube.com/@noitaminaofficial",
     twitter: "https://x.com/dark__machine",
   },
   locales: ["en", "es", "pt", "de", "fr"],
