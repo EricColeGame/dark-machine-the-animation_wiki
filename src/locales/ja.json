@@ -1,1 +1,461 @@
-{}
+{
+  "site": {
+    "name": "Dark Machine The Animation Wiki",
+    "shortName": "Dark Machine The Animation",
+    "tagline": "物語・キャラクター・メカ・エピソードガイド",
+    "description": "Dark Machine The Animationの物語、キャラクター、メカ、キャスト、エピソード、予告編、公式情報を扱うファン制作ウィキ。",
+    "legalNotice": "独立したファンウィキです。公式アニメ制作とは関係ありません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "trailers": "予告編",
+    "characters": "キャラクター",
+    "production": "制作",
+    "mechanics": "メカニクス",
+    "community": "コミュニティ",
+    "music": "音楽",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える"
+  },
+  "home": {
+    "meta": {
+      "title": "Dark Machine The Animation Wiki — キャラクター・エピソード・物語",
+      "description": "Dark Machine The Animationを、キャラクター紹介、物語の詳細、メカデザイン、キャスト情報、エピソードガイド、予告編、公式ニュースで深掘りします。"
+    },
+    "hero": {
+      "eyebrow": "SF eスポーツアニメ",
+      "title": "Dark Machine The Animation Wiki",
+      "description": "オリジナルSF eスポーツアニメ『Dark Machine The Animation』を探索。物語、キャラクター、メカデザイン、キャスト、エピソード、予告編、最新の公式情報を紹介します。",
+      "stats": [
+        "2026年放送開始",
+        "各話22分",
+        "日本語音声",
+        "Production +h."
+      ],
+      "primaryCta": "物語・キャラクターガイド",
+      "secondaryCta": "アニメ公式サイト",
+      "tertiaryCta": "公式X",
+      "videoLabel": "公式予告編"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Dark Machine The Animationの旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "第1話から始め、カイリに出会い、物語が加速する前にゴールデンバレー、ダークマシン、戦鬼の称号がどうつながるかを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "エピソードガイド",
+          "description": "2026年秋アニメの毎週の放送順、各話のあらすじ、配信情報を追い、物語の展開を見逃さないようにしましょう。"
+        },
+        {
+          "number": "3",
+          "title": "配信・ストリーミング",
+          "description": "初めて視聴する前に、2026年10月13日の放送開始、Crunchyrollの同時配信、字幕オプションを確認しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "キャラクター・キャスト",
+          "description": "カイリ、ルドラ、アジマ、ステラタスの3人組を、声優と物語での役割とともに一覧で紹介します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目の記事",
+      "quickLinks": [
+        "エピソードガイド",
+        "物語解説",
+        "キャラクター・キャスト",
+        "視聴方法"
+      ],
+      "cards": [
+        {
+          "badge": "ガイド",
+          "title": "第1話のあらすじ",
+          "description": "カイリは島を離れ、ルドラと出会い、シリーズ初回で戦鬼を探す旅を始めます。",
+          "href": "/guide/dark-machine-the-animation-episode-1"
+        },
+        {
+          "badge": "物語",
+          "title": "物語解説",
+          "description": "ゴールデンバレー、戦鬼の称号、アジマの支配、そしてカイリがダークマシンで上り詰める過程を理解しましょう。",
+          "href": "/guide/dark-machine-the-animation-story-explained"
+        },
+        {
+          "badge": "キャラクター",
+          "title": "キャラクター一覧",
+          "description": "中心人物たちの物語上の役割と、カイリとルドラを取り巻くキャラクターを追いましょう。",
+          "href": "/characters/dark-machine-the-animation-character-list"
+        },
+        {
+          "badge": "キャスト",
+          "title": "キャスト・声優",
+          "description": "ステラタスの3人組と、アルク、デネボラ、スピカを演じる声優を紹介します。",
+          "href": "/characters/dark-machine-the-animation-cast"
+        },
+        {
+          "badge": "予告編",
+          "title": "公式予告編",
+          "description": "Galaxy Modeと2026年10月13日の放送開始を軸にした予告編を視聴しましょう。",
+          "href": "/trailers/dark-machine-the-animation-official-trailer"
+        },
+        {
+          "badge": "音楽",
+          "title": "オープニングテーマ",
+          "description": "BUCK-TICKの「存在理由 改」と、それがシリーズで果たす役割を紹介します。",
+          "href": "/music/dark-machine-the-animation-buck-tick"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Dark Machine The Animationとは？",
+      "paragraphs": [
+        "『Dark Machine The Animation』は、Project Carbuncleによる2026年のオリジナルSF eスポーツアニメで、Production +h.が制作し、寺田和視が監督を務めます。祖父の最期の言葉「戦鬼を探せ」を胸にゴールデンバレーへやって来るカイリを描きます。",
+        "この世界では、競技ゲーム『ダークマシン』が日本の経済を変えました。7代目戦鬼であるアジマがゲームを通じてゴールデンバレーを支配し、カイリはルドラと出会った後にプレイヤーとなって既存の秩序に挑み始めます。シリーズは日本でフジテレビにて放送され、海外ではCrunchyrollで配信されます。"
+      ],
+      "stats": [
+        {
+          "label": "放送年",
+          "value": "2026"
+        },
+        {
+          "label": "各話の長さ",
+          "value": "22分"
+        },
+        {
+          "label": "スタジオ",
+          "value": "Production +h."
+        },
+        {
+          "label": "監督",
+          "value": "寺田和視"
+        },
+        {
+          "label": "オリジナル音声",
+          "value": "日本語"
+        },
+        {
+          "label": "配信",
+          "value": "Crunchyroll"
+        }
+      ],
+      "cta": "物語・キャラクターガイドを見る"
+    },
+    "explore": {
+      "title": "Dark Machine The Animation Wikiを探索",
+      "description": "アニメのキャラクター、エピソード放送日程、物語世界、制作、予告編、音楽を扱うガイドを閲覧しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Dark Machine The Animationのキャラクター",
+          "description": "カイリ、ルドラ、アジマ、ステラタスの3人組など、Dark Machine The Animationの中心人物を紹介し、それぞれがゴールデンバレーを巡る戦いでどのような役割を担うかを見ていきます。",
+          "href": "/characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "カイリ",
+              "detail": "カイリは祖父の最期の言葉「戦鬼を探せ」を胸にゴールデンバレーへやって来ます。"
+            },
+            {
+              "label": "ルドラ",
+              "detail": "ルドラはアジマの部下に追われ、カイリをダークマシンへと導く存在になります。"
+            },
+            {
+              "label": "アジマ",
+              "detail": "アジマは7代目戦鬼の称号を持ち、ゲームを通じてゴールデンバレーを支配しています。"
+            },
+            {
+              "label": "ステラタス",
+              "detail": "ステラタスは3人のキャストが名を連ねる、アルバイトアイドルグループ兼eスポーツチームです。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Dark Machine The Animationのエピソード",
+          "description": "カイリがゴールデンバレーを駆け上がる中で展開する毎週の放送、各話のあらすじ、物語の展開を追いましょう。",
+          "href": "/guide/dark-machine-the-animation-episode-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "第1話は2026年10月13日に放送開始し、カイリ、ルドラ、そして戦鬼探しを紹介します。"
+            },
+            {
+              "label": "2",
+              "detail": "各話は約22分で、2026年秋の放送期間中に毎週届きます。"
+            },
+            {
+              "label": "3",
+              "detail": "放送順に視聴してください。前日譚や外伝はなく、視聴順を複雑にする要素はありません。"
+            },
+            {
+              "label": "4",
+              "detail": "各話が届くたびに、エピソードガイドであらすじと新しい物語の詳細を追いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Dark Machine The Animationの配信日",
+          "description": "2026年アニメの放送開始日、放送シーズン、スタジオ、監督、配信状況を確認しましょう。",
+          "href": "/guide/dark-machine-the-animation-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "10月13日",
+              "detail": "2026年秋シーズンの日本テレビ放送開始日です。"
+            },
+            {
+              "label": "フジテレビ",
+              "detail": "日本ではフジテレビと系列局で放送されます。"
+            },
+            {
+              "label": "Crunchyroll",
+              "detail": "字幕付き同時配信の海外配信拠点です。"
+            },
+            {
+              "label": "22分",
+              "detail": "毎週の各話の標準的な放送時間です。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Dark Machine The Animationの物語ガイド",
+          "description": "前提、ゴールデンバレー、戦鬼の称号、そしてカイリとアジマの確立された秩序との対立を理解しましょう。",
+          "href": "/guide/dark-machine-the-animation-story-explained",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "カイリ",
+              "detail": "カイリは祖父の最期の言葉「戦鬼を探せ」を追ってゴールデンバレーへ向かいます。"
+            },
+            {
+              "label": "ルドラ",
+              "detail": "ルドラはアジマの部下に狙われ、カイリをダークマシンへ引き込みます。"
+            },
+            {
+              "label": "戦鬼",
+              "detail": "戦鬼は最強プレイヤーの称号で、現在はアジマが保持しています。"
+            },
+            {
+              "label": "谷",
+              "detail": "ゴールデンバレーはダークマシンによって形作られた経済特区です。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Dark Machine The Animationのキャスト・スタッフ",
+          "description": "ステラタスの声優陣と、アニメの監督、脚本家、キャラクターデザイナー、作曲家を紹介します。",
+          "href": "/production/dark-machine-the-animation-production-team",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "監督",
+              "detail": "寺田和視がProduction +h.でシリーズを監督します。"
+            },
+            {
+              "label": "脚本",
+              "detail": "シリーズ構成はTeam Carbuncleが担当します。"
+            },
+            {
+              "label": "デザイン",
+              "detail": "吉成鋼がメインキャラクターデザインを担当します。"
+            },
+            {
+              "label": "音楽",
+              "detail": "SUGIZOがアニメの音楽を担当します。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Dark Machine The Animationの予告編",
+          "description": "2026年秋の放送開始前に公開された公式プロモーション映像、ティザー映像、音楽プレビューを追いましょう。",
+          "href": "/trailers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "公式",
+              "detail": "公式予告編ではGalaxy Modeと2026年秋の放送開始を紹介しています。"
+            },
+            {
+              "label": "ティザー",
+              "detail": "ティザーPVではゴールデンバレー、ダークマシン、カイリの使命を紹介します。"
+            },
+            {
+              "label": "第2弾PV",
+              "detail": "第2弾プロモーションではキャラクター映像と10月13日の放送開始日が追加されます。"
+            },
+            {
+              "label": "第3弾PV",
+              "detail": "第3弾プロモーションではエンディングテーマと新しい物語の詳細が強調されます。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Dark Machine The Animationの世界とキーワード",
+          "description": "ダークマシンというeスポーツからゴールデンバレー、戦鬼の称号、ステラタスまで、シリーズを定義する物語用語を学びましょう。",
+          "href": "/mechanics/dark-machine-the-animation-game-world",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ダークマシンは日本の経済を変えたeスポーツです。"
+            },
+            {
+              "label": "A",
+              "detail": "ゴールデンバレーはゲームを通じて支配される経済特区です。"
+            },
+            {
+              "label": "B",
+              "detail": "戦鬼は最強プレイヤーが持つ称号で、アジマは7代目です。"
+            },
+            {
+              "label": "C",
+              "detail": "ステラタスはアルバイトのアイドルグループであり、アルバイトのeスポーツチームでもあります。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dark Machine The Animationの音楽",
+          "description": "2026年アニメのオープニングテーマ、エンディングテーマ、作曲家、音楽リリースを紹介します。",
+          "href": "/music",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "オープニング",
+              "detail": "BUCK-TICKがシリーズのオープニングテーマ「存在理由 改」を担当します。"
+            },
+            {
+              "label": "エンディング",
+              "detail": "三代目 J SOUL BROTHERSがエンディングテーマ「Galaxy Mode」を担当します。"
+            },
+            {
+              "label": "劇伴",
+              "detail": "SUGIZOがアニメの音楽を担当します。"
+            },
+            {
+              "label": "デジタル",
+              "detail": "「存在理由 改」のTVエディットは2026年10月14日にデジタル配信されました。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Dark Machine The Animationについてよく寄せられる質問への簡単な回答です。",
+      "items": [
+        {
+          "question": "Dark Machine The Animationとはどんな作品ですか？",
+          "answer": "『Dark Machine The Animation』は、祖父の最期の言葉「戦鬼を探せ」を胸にゴールデンバレーへ入るカイリを描きます。ルドラと出会った後、彼はダークマシンのプレイヤーとなり、7代目戦鬼アジマが支配する秩序に挑みます。"
+        },
+        {
+          "question": "Dark Machine The Animationはいつ放送開始しましたか？",
+          "answer": "『Dark Machine The Animation』は2026年秋アニメシーズンの一環として、2026年10月13日に放送開始しました。"
+        },
+        {
+          "question": "Dark Machine The Animationはどこで視聴できますか？",
+          "answer": "『Dark Machine The Animation』は日本語音声と字幕でCrunchyrollにて配信され、日本ではフジテレビで放送されます。"
+        },
+        {
+          "question": "Dark Machine The Animationの主なキャラクターは誰ですか？",
+          "answer": "『Dark Machine The Animation』はカイリ、ルドラ、アジマを中心に描き、アルク、デネボラ、スピカがアイドル×eスポーツの3人組ステラタスを結成しています。"
+        },
+        {
+          "question": "Dark Machine The Animationの主題歌は誰が担当していますか？",
+          "answer": "『Dark Machine The Animation』のオープニングテーマ「存在理由 改」はBUCK-TICK、エンディングテーマ「Galaxy Mode」は三代目 J SOUL BROTHERSが担当しています。"
+        },
+        {
+          "question": "Dark Machine The Animationの各話はどのくらいの長さですか？",
+          "answer": "『Dark Machine The Animation』の各話は約22分で、毎週放送されます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Dark Machine The Animationを探索",
+      "description": "2026年のSF eスポーツアニメの物語、キャラクター、メカ、キャスト、エピソードガイドを深掘りしましょう。",
+      "primary": "物語・キャラクターガイドを見る",
+      "secondary": "アニメ公式サイトを見る"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Dark Machine The Animationガイド",
+    "overviewDescription": "2026年10月13日の放送開始から、エピソードガイド、物語解説、配信情報、漫画化まで『Dark Machine The Animation』を追いましょう。"
+  },
+  "trailers": {
+    "overviewTitle": "Dark Machine The Animationの予告編",
+    "overviewDescription": "ティザーPVや公式予告編から第2弾・第3弾プレビューまで、『Dark Machine The Animation』のすべての予告編を視聴し、読み解きましょう。"
+  },
+  "characters": {
+    "overviewTitle": "Dark Machine The Animationのキャラクター",
+    "overviewDescription": "シン、ルドラ、ステラタス、その声優陣、そしてシリーズのキャラクター造形を手がけたデザインを含め、『Dark Machine The Animation』のキャストを紹介します。"
+  },
+  "production": {
+    "overviewTitle": "Dark Machine The Animationの制作",
+    "overviewDescription": "『Dark Machine The Animation』のスタジオ、監督、スタッフ、制作チーム、フジテレビ放送、2026年アニメ展開を探索します。"
+  },
+  "mechanics": {
+    "overviewTitle": "Dark Machine The Animationのメカニクス",
+    "overviewDescription": "『Dark Machine The Animation』のゲーム世界、メカバトル、eスポーツ設定、アニメとDark Machineゲームのつながりを理解しましょう。"
+  },
+  "community": {
+    "overviewTitle": "Dark Machine The Animationのコミュニティ",
+    "overviewDescription": "『Dark Machine The Animation』のレビュー、初見の感想、第1話の反応、Redditの議論、ファンの会話を読みましょう。"
+  },
+  "music": {
+    "overviewTitle": "Dark Machine The Animationの音楽",
+    "overviewDescription": "BUCK-TICK、Reason for Being Kai、Galaxy Modeなど、『Dark Machine The Animation』のオープニング、エンディング、サウンドトラックの詳細を紹介します。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "startHere": "ここから始める",
+    "startHereDescription": "放送開始日、物語の入門、キャラクターガイドから始めましょう。",
+    "browseGuides": "ガイドを見る",
+    "updated": "更新日",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用できるガイドはまだありません。また後で確認してください。"
+  },
+  "footer": {
+    "aboutTitle": "Dark Machine The Animation Wiki",
+    "about": "『Dark Machine The Animation Wiki』は、2026年のSF eスポーツアニメの物語、キャラクター、メカ、キャスト、エピソード、公式情報を扱う、ファンが制作した独立系リファレンスハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法務",
+    "copyright": "2026 Dark Machine The Animation Wiki。フジテレビ、Production +h.、Project Carbuncleとは関係ありません。",
+    "description": "オリジナルSF eスポーツアニメ。2026年放送開始、各話22分、日本語音声。",
+    "playGame": "アニメ公式サイト",
+    "officialDiscord": "公式X",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "Production +h.作品",
+    "beginnerGuide": "物語・キャラクターガイド",
+    "raceGuides": "キャラクターガイド",
+    "bossGuides": "メカ・世界観",
+    "buildGuide": "予告編・楽曲",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

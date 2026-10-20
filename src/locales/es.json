@@ -1,1 +1,461 @@
-{}
+{
+  "site": {
+    "name": "Dark Machine The Animation Wiki",
+    "shortName": "Dark Machine The Animation",
+    "tagline": "Historia, personajes, mechas y guías de episodios",
+    "description": "Wiki hecha por fans de Dark Machine The Animation que cubre la historia, los personajes, los mechas, el elenco, los episodios, los tráilers y las novedades oficiales.",
+    "legalNotice": "Wiki independiente hecha por fans. Sin afiliación con la producción oficial del anime."
+  },
+  "nav": {
+    "guide": "Guía",
+    "trailers": "Tráilers",
+    "characters": "Personajes",
+    "production": "Producción",
+    "mechanics": "Mecánicas",
+    "community": "Comunidad",
+    "music": "Música",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Dark Machine The Animation Wiki — Personajes, episodios e historia",
+      "description": "Explora Dark Machine The Animation con perfiles de personajes, detalles de la historia, diseños de mechas, información del elenco, guías de episodios, tráilers y novedades oficiales."
+    },
+    "hero": {
+      "eyebrow": "Anime de ciencia ficción y esports",
+      "title": "Dark Machine The Animation Wiki",
+      "description": "Explora Dark Machine The Animation, el anime original de ciencia ficción y esports. Descubre la historia, los personajes, los diseños de mechas, el elenco, los episodios, los tráilers y las últimas novedades oficiales.",
+      "stats": [
+        "Estreno en 2026",
+        "Episodios de 22 minutos",
+        "Audio en japonés",
+        "Production +h."
+      ],
+      "primaryCta": "Guías de historia y personajes",
+      "secondaryCta": "Sitio oficial del anime",
+      "tertiaryCta": "X oficial",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Dark Machine The Animation",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Empieza con el episodio 1, conoce a Kairi y descubre cómo se conectan Golden Valley, DARK MACHINE y el título de Senki antes de que la historia acelere."
+        },
+        {
+          "number": "2",
+          "title": "Guía de episodios",
+          "description": "Sigue el orden de emisión semanal, los resúmenes de episodios y el seguimiento de estrenos del anime de otoño de 2026 sin perderte ningún giro."
+        },
+        {
+          "number": "3",
+          "title": "Estreno y streaming",
+          "description": "Consulta el estreno del 13 de octubre de 2026, los detalles de la emisión simultánea en Crunchyroll y las opciones de subtítulos antes de verlo por primera vez."
+        },
+        {
+          "number": "4",
+          "title": "Personajes y elenco",
+          "description": "Conoce a Kairi, Rudora, Ajima y el trío STELLATUS, con sus actores de voz y roles en la historia reunidos en una referencia rápida."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Guía de episodios",
+        "Historia explicada",
+        "Personajes y elenco",
+        "Dónde verlo"
+      ],
+      "cards": [
+        {
+          "badge": "Guía",
+          "title": "Resumen del episodio 1",
+          "description": "Kairi deja su isla, conoce a Rudora y comienza su búsqueda de Senki en el estreno de la serie.",
+          "href": "/guide/dark-machine-the-animation-episode-1"
+        },
+        {
+          "badge": "Historia",
+          "title": "Historia explicada",
+          "description": "Comprende Golden Valley, el título de Senki, el control de Ajima y el ascenso de Kairi en DARK MACHINE.",
+          "href": "/guide/dark-machine-the-animation-story-explained"
+        },
+        {
+          "badge": "Personajes",
+          "title": "Lista de personajes",
+          "description": "Conoce a los protagonistas, sus roles en la historia y los personajes que rodean a Kairi y Rudora.",
+          "href": "/characters/dark-machine-the-animation-character-list"
+        },
+        {
+          "badge": "Elenco",
+          "title": "Elenco y actores de voz",
+          "description": "Conoce al trío STELLATUS y a los actores de voz de Aluk, Denebola y Spica.",
+          "href": "/characters/dark-machine-the-animation-cast"
+        },
+        {
+          "badge": "Tráiler",
+          "title": "Tráiler oficial",
+          "description": "Mira el tráiler centrado en Galaxy Mode y el estreno del 13 de octubre de 2026.",
+          "href": "/trailers/dark-machine-the-animation-official-trailer"
+        },
+        {
+          "badge": "Música",
+          "title": "Tema de apertura",
+          "description": "Explora Sonzai Riyuu Kai de BUCK-TICK y su papel en la serie.",
+          "href": "/music/dark-machine-the-animation-buck-tick"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Dark Machine The Animation?",
+      "paragraphs": [
+        "Dark Machine The Animation es un anime original de ciencia ficción y esports de 2026 de Project Carbuncle, animado por Production +h. y dirigido por Kazumi Terada. Sigue a Kairi, que llega a Golden Valley con las últimas palabras de su abuelo: Encuentra a Senki.",
+        "En este mundo, el juego competitivo DARK MACHINE ha transformado la economía de Japón. Ajima, el séptimo Senki, controla Golden Valley mediante el juego, mientras Kairi se convierte en jugador tras conocer a Rudora y empieza a desafiar la jerarquía. La serie se emite en Fuji TV en Japón y se transmite internacionalmente en Crunchyroll."
+      ],
+      "stats": [
+        {
+          "label": "Año de estreno",
+          "value": "2026"
+        },
+        {
+          "label": "Duración de los episodios",
+          "value": "22 min"
+        },
+        {
+          "label": "Estudio",
+          "value": "Production +h."
+        },
+        {
+          "label": "Director",
+          "value": "Kazumi Terada"
+        },
+        {
+          "label": "Audio original",
+          "value": "Japonés"
+        },
+        {
+          "label": "Streaming",
+          "value": "Crunchyroll"
+        }
+      ],
+      "cta": "Explora las guías de historia y personajes"
+    },
+    "explore": {
+      "title": "Explora la wiki de Dark Machine The Animation",
+      "description": "Consulta guías centradas en los personajes del anime, el calendario de episodios, el mundo de la historia, la producción, los tráilers y la música.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Personajes de Dark Machine The Animation",
+          "description": "Conoce a los protagonistas de Dark Machine The Animation, incluidos Kairi, Rudora, Ajima y el trío STELLATUS, y descubre cómo encaja cada uno en la batalla por Golden Valley.",
+          "href": "/characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kairi",
+              "detail": "Kairi llega a Golden Valley con las últimas palabras de su abuelo: Encuentra a Senki."
+            },
+            {
+              "label": "Rudora",
+              "detail": "Rudora es perseguida por un subordinado de Ajima y se convierte en el vínculo de Kairi con DARK MACHINE."
+            },
+            {
+              "label": "Ajima",
+              "detail": "Ajima ostenta el título de séptimo Senki y controla Golden Valley mediante el juego."
+            },
+            {
+              "label": "STELLATUS",
+              "detail": "STELLATUS es un grupo ídolo a tiempo parcial y equipo de esports con tres miembros del elenco con nombre."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Episodios de Dark Machine The Animation",
+          "description": "Sigue la emisión semanal, los resúmenes de episodios y los avances de la historia mientras se desarrolla el ascenso de Kairi por Golden Valley.",
+          "href": "/guide/dark-machine-the-animation-episode-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "El episodio 1 se estrenó el 13 de octubre de 2026 y presenta a Kairi, Rudora y la búsqueda de Senki."
+            },
+            {
+              "label": "2",
+              "detail": "Los episodios duran unos 22 minutos y llegan cada semana durante la emisión de otoño de 2026."
+            },
+            {
+              "label": "3",
+              "detail": "Míralos en orden de emisión; no hay precuelas ni historias paralelas que compliquen el orden."
+            },
+            {
+              "label": "4",
+              "detail": "Usa la guía de episodios para seguir los resúmenes y los nuevos detalles de la historia a medida que llega cada entrega."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Fecha de estreno de Dark Machine The Animation",
+          "description": "Confirma la fecha de estreno, la temporada de emisión, el estudio, el director y la disponibilidad de streaming del anime de 2026.",
+          "href": "/guide/dark-machine-the-animation-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "13 de oct",
+              "detail": "La fecha de estreno en la televisión japonesa en la temporada de otoño de 2026."
+            },
+            {
+              "label": "Fuji TV",
+              "detail": "La serie se emite en Fuji TV y cadenas afiliadas de Japón."
+            },
+            {
+              "label": "Crunchyroll",
+              "detail": "El hogar internacional del streaming para la emisión simultánea subtitulada."
+            },
+            {
+              "label": "22 min",
+              "detail": "La duración estándar de cada episodio semanal."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de la historia de Dark Machine The Animation",
+          "description": "Comprende la premisa, Golden Valley, el título de Senki y el conflicto entre Kairi y el orden establecido por Ajima.",
+          "href": "/guide/dark-machine-the-animation-story-explained",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kairi",
+              "detail": "Kairi sigue las últimas palabras de su abuelo, Encuentra a Senki, hasta Golden Valley."
+            },
+            {
+              "label": "Rudora",
+              "detail": "Rudora es perseguida por un subordinado de Ajima y arrastra a Kairi a DARK MACHINE."
+            },
+            {
+              "label": "Senki",
+              "detail": "Senki es el título del jugador más fuerte y actualmente lo ostenta Ajima."
+            },
+            {
+              "label": "Valle",
+              "detail": "Golden Valley es una zona económica exclusiva moldeada por DARK MACHINE."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Elenco y equipo de Dark Machine The Animation",
+          "description": "Conoce a los actores de voz confirmados de STELLATUS y al director, guionistas, diseñador de personajes y compositor del anime.",
+          "href": "/production/dark-machine-the-animation-production-team",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Director",
+              "detail": "Kazumi Terada dirige la serie en Production +h."
+            },
+            {
+              "label": "Guion",
+              "detail": "Team Carbuncle se encarga de la composición de la serie."
+            },
+            {
+              "label": "Diseño",
+              "detail": "Ko Yoshinari lidera el diseño principal de personajes."
+            },
+            {
+              "label": "Música",
+              "detail": "SUGIZO compone la banda sonora del anime."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tráilers de Dark Machine The Animation",
+          "description": "Sigue los vídeos promocionales oficiales, las imágenes del teaser y los avances musicales publicados antes del estreno de otoño de 2026.",
+          "href": "/trailers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Oficial",
+              "detail": "El tráiler oficial muestra Galaxy Mode y el estreno de otoño de 2026."
+            },
+            {
+              "label": "Teaser",
+              "detail": "El PV teaser presenta Golden Valley, DARK MACHINE y la misión de Kairi."
+            },
+            {
+              "label": "2.º PV",
+              "detail": "El segundo avance añade imágenes de los personajes y la fecha de estreno del 13 de octubre."
+            },
+            {
+              "label": "3.er PV",
+              "detail": "El tercer avance destaca el tema de cierre y nuevos detalles de la historia."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mundo y conceptos clave de Dark Machine The Animation",
+          "description": "Aprende los términos de la historia que definen la serie, desde el esport DARK MACHINE y Golden Valley hasta el título de Senki y STELLATUS.",
+          "href": "/mechanics/dark-machine-the-animation-game-world",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "DARK MACHINE es el esport que transformó la economía de Japón."
+            },
+            {
+              "label": "A",
+              "detail": "Golden Valley es una zona económica exclusiva controlada mediante el juego."
+            },
+            {
+              "label": "B",
+              "detail": "Senki es el título que ostenta el jugador más fuerte; Ajima es el séptimo."
+            },
+            {
+              "label": "C",
+              "detail": "STELLATUS es un grupo ídolo a tiempo parcial y un equipo de esports a tiempo parcial."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Música de Dark Machine The Animation",
+          "description": "Explora el tema de apertura, el tema de cierre, el compositor y los lanzamientos musicales del anime de 2026.",
+          "href": "/music",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Apertura",
+              "detail": "BUCK-TICK interpreta Sonzai Riyuu Kai, el tema de apertura de la serie."
+            },
+            {
+              "label": "Cierre",
+              "detail": "Sandaime J Soul Brothers interpreta Galaxy Mode, el tema de cierre."
+            },
+            {
+              "label": "Banda sonora",
+              "detail": "SUGIZO compone la banda sonora del anime."
+            },
+            {
+              "label": "Digital",
+              "detail": "La edición televisiva de Sonzai Riyuu Kai llegó en formato digital el 14 de octubre de 2026."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Dark Machine The Animation.",
+      "items": [
+        {
+          "question": "¿De qué trata Dark Machine The Animation?",
+          "answer": "Dark Machine The Animation sigue a Kairi cuando entra en Golden Valley con las últimas palabras de su abuelo, Encuentra a Senki. Tras conocer a Rudora, se convierte en jugador de DARK MACHINE y desafía la jerarquía que gobierna Ajima, el séptimo Senki."
+        },
+        {
+          "question": "¿Cuándo se estrenó Dark Machine The Animation?",
+          "answer": "Dark Machine The Animation se estrenó el 13 de octubre de 2026 como parte de la temporada de anime de otoño de 2026."
+        },
+        {
+          "question": "¿Dónde puedo ver Dark Machine The Animation?",
+          "answer": "Dark Machine The Animation se transmite en Crunchyroll con audio japonés y subtítulos, mientras que la serie se emite en Fuji TV en Japón."
+        },
+        {
+          "question": "¿Quiénes son los personajes principales de Dark Machine The Animation?",
+          "answer": "Dark Machine The Animation se centra en Kairi, Rudora y Ajima, con Aluk, Denebola y Spica formando el trío ídolo-esports STELLATUS."
+        },
+        {
+          "question": "¿Quién interpreta los temas musicales de Dark Machine The Animation?",
+          "answer": "BUCK-TICK interpreta el tema de apertura Sonzai Riyuu Kai de Dark Machine The Animation, mientras que Sandaime J Soul Brothers interpreta el tema de cierre Galaxy Mode."
+        },
+        {
+          "question": "¿Cuánto dura cada episodio de Dark Machine The Animation?",
+          "answer": "Cada episodio de Dark Machine The Animation dura unos 22 minutos y la serie se emite semanalmente."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Explora Dark Machine The Animation",
+      "description": "Sumérgete en la historia, los personajes, los mechas, el elenco y las guías de episodios del anime de ciencia ficción y esports de 2026.",
+      "primary": "Ver guías de historia y personajes",
+      "secondary": "Visitar el sitio oficial del anime"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Dark Machine The Animation",
+    "overviewDescription": "Sigue Dark Machine The Animation desde su estreno del 13 de octubre de 2026 con guías de episodios, explicaciones de la historia, detalles de streaming y la adaptación al manga."
+  },
+  "trailers": {
+    "overviewTitle": "Tráilers de Dark Machine The Animation",
+    "overviewDescription": "Mira y lee sobre todos los tráilers de Dark Machine The Animation, desde el PV teaser y el tráiler oficial hasta el segundo y tercer avance."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Dark Machine The Animation",
+    "overviewDescription": "Conoce al elenco de Dark Machine The Animation, incluidos Shin, Rudra, STELLATUS, sus actores de voz y los diseños del reparto de la serie."
+  },
+  "production": {
+    "overviewTitle": "Producción de Dark Machine The Animation",
+    "overviewDescription": "Explora el estudio, el director, el personal, el equipo de producción, la emisión en Fuji TV y el lanzamiento del anime de 2026 de Dark Machine The Animation."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Dark Machine The Animation",
+    "overviewDescription": "Comprende el mundo del juego de Dark Machine The Animation, las batallas de mechas, el entorno de esports y cómo se conecta el anime con el juego Dark Machine."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Dark Machine The Animation",
+    "overviewDescription": "Lee reseñas, primeras impresiones, reacciones al episodio 1, debates en Reddit y conversaciones de fans sobre Dark Machine The Animation."
+  },
+  "music": {
+    "overviewTitle": "Música de Dark Machine The Animation",
+    "overviewDescription": "Descubre los detalles de la apertura, el cierre y la banda sonora de Dark Machine The Animation, incluidos BUCK-TICK, Reason for Being Kai y Galaxy Mode."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "startHere": "Empieza aquí",
+    "startHereDescription": "Empieza por la fecha de estreno, la introducción a la historia y la guía de personajes.",
+    "browseGuides": "Ver guías",
+    "updated": "Actualizado",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Dark Machine The Animation Wiki",
+    "about": "Dark Machine The Animation Wiki es un centro de referencia independiente creado por fans que cubre la historia, los personajes, los mechas, el elenco, los episodios y las novedades oficiales del anime de ciencia ficción y esports de 2026.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Dark Machine The Animation Wiki. Sin afiliación con Fuji TV, Production +h. ni Project Carbuncle.",
+    "description": "Anime original de ciencia ficción y esports. Estreno en 2026, episodios de 22 minutos, audio en japonés.",
+    "playGame": "Sitio web oficial del anime",
+    "officialDiscord": "X oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Obras de Production +h.",
+    "beginnerGuide": "Guías de historia y personajes",
+    "raceGuides": "Guías de personajes",
+    "bossGuides": "Mechas y mundo",
+    "buildGuide": "Tráilers y canciones",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
