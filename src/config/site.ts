@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Dark Machine The Animation Wiki",
+  shortName: "Dark Machine The Animation",
+  logoText: "DM",
+  tagline: "Story, Characters, Mecha & Episode Guides",
+  description: "Fan-made Dark Machine The Animation wiki covering the story, characters, mecha, cast, episodes, trailers, and official updates.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://dark-machine-the-animation.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://dark-machine-the-animation.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.fujitv.co.jp/darkmachine_anime/",
+  heroVideoId: "Tvvs_SlUYgA", // Official DARK MACHINE THE ANIMATION 3rd PV
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=Tvvs_SlUYgA",
+    twitter: "https://x.com/dark__machine",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
